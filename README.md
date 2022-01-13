@@ -1,5 +1,5 @@
 # Seattle Airbnb Dataset
-This project was created as part of the Udacity Data Scientist Nanodegree program. A link to the medium blogpost can be found [here](https://github.com/user/repo/blob/branch/other_file.md)
+This project was created as part of the Udacity Data Scientist Nanodegree program. A link to the medium blogpost can be found [here](https://medium.com/@anniekhegeman/exploring-seattle-airbnb-data-5bb6c8d6a64).
 
 ## Table of contents
 [Introduction](#Introduction) <br />
