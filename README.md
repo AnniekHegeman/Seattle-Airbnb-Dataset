@@ -10,7 +10,7 @@ This project was created as part of the Udacity Data Scientist Nanodegree progra
 [Acknowledgemetns](#Acknowledgements) <br />
 
 ## Introduction
-In this repository, I shall be analyzing the Seattle Airbnb Dataset which can be found on [Kaggle](https://www.kaggle.com/airbnb/seattle). The aim of this project is to analyse the Seattle Airbnb dataset, which is done based on 4 questions:
+In this repository, I analyzed the Seattle Airbnb Dataset which can be found on [Kaggle](https://www.kaggle.com/airbnb/seattle). The aim of this project is to analyse the Seattle Airbnb dataset, which is done based on 4 questions:
 - What is the most common price people ask for their place?
 - What common property types do people use to sell their place on Airbnb?
 - What factors are important to predict the price?
