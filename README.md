@@ -1,4 +1,4 @@
-# Seattle-Airbnb-Dataset
+# Seattle Airbnb Dataset
 This project was created as part of the Udacity Data Scientist Nanodegree program. A link to the medium blogpost can be found [here](https://github.com/user/repo/blob/branch/other_file.md)
 
 ## Table of contents
@@ -32,10 +32,10 @@ This project follows CRISP-DM (Cross-Industry Standard Process for Data Mining) 
 ## Data
 There are three files in the dataset.
 
-- listings.csv - includes full descriptions and the price of a place.
-- calendar.csv - Only used to check what data is in there.
-- reviews.csv - Only used to check what data is in there.
-
+- listings.csv - including full descriptions and average review score.
+- calendar.csv - including unique id for each reviewer and detailed comments.
+- reviews.csv - including listing id and the price and availability for that day.
+- 
 For this project only the listings dataset is used.
 
 ## Running the code
@@ -57,4 +57,4 @@ After analyzing the Seattle Airbnb dataset, we can come to some conclusions:
 
 
 ## Acknowledgements
-Only a small portion of the dataset is used, the full dataset can be found [here](http://insideairbnb.com/get-the-data.html)
+This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html).
