@@ -35,7 +35,7 @@ There are three files in the dataset.
 - listings.csv - including full descriptions and average review score.
 - calendar.csv - including unique id for each reviewer and detailed comments.
 - reviews.csv - including listing id and the price and availability for that day.
-- 
+
 For this project only the listings dataset is used.
 
 ## Running the code
