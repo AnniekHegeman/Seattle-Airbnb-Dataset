@@ -3,11 +3,11 @@ This project was created as part of the Udacity Data Scientist Nanodegree progra
 
 ## Table of contents
 [Introduction](#Introduction) <br />
-[Prerequisites](#Prerequisites)
-[Data](#Data)
-[Running the code](#Running the code)
-[Results](#Results)
-[Acknowledgemetns](#Acknowledgements)
+[Prerequisites](#Prerequisites) <br />
+[Data](#Data) <br />
+[Running the code](#Running_the_code) <br />
+[Results](#Results) <br />
+[Acknowledgemetns](#Acknowledgements) <br />
 
 ## Introduction
 
