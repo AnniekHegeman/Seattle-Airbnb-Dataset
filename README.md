@@ -41,7 +41,7 @@ There are three files in the dataset.
 For this project only the listings dataset is used.
 
 ## Running the code
-- Airbnb Seattle.p
+- [Airbnb Seattle.ipynb]()
 
 
 ## Results
