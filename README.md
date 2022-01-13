@@ -21,8 +21,6 @@ This project follows CRISP-DM (Cross-Industry Standard Process for Data Mining) 
 - **Data preparation**: Cleaned the data. I made sure that there were no missing values and that the needed columns are in the right format to use for modeling. Also categorical variables were transformed into dummy variables.
 - **Modeling & Evaluation**: Visualisations were created and the linear models were made. 
 
-
-
 ## Prerequisites
 - Pandas (for data loading and analysis)
 - NumPy (for computing)
@@ -41,11 +39,22 @@ There are three files in the dataset.
 For this project only the listings dataset is used.
 
 ## Running the code
-- [Airbnb Seattle.ipynb]()
+- [Airbnb Seattle.ipynb](https://github.com/AnniekHegeman/Seattle-Airbnb-Dataset/blob/main/Airbnb%20Seattle.ipynb) - contains all the code that is done in this project.
 
 
 ## Results
+After analyzing the Seattle Airbnb dataset, we can come to some conclusions:
 
+1. Most people sell their place for $150 a night.
+
+2. Almost all places that are rented out are apartments and houses, which most of them are rented out as whole apartments and houses.
+
+3. We can predict the price of a room with some certainty for 55% of the data. This means that we can predict the prices of a place pretty good for most of the cases.
+
+4. The combination of the place of a room, the type of room (shared or private), the number of bedrooms and the number of bathrooms, predict the best price of a place.
+
+5. The higher the number of accommodates, bedrooms and the cleaning fee, the more you can ask for a place.
 
 
 ## Acknowledgements
+Only a small portion of the dataset is used, the full dataset can be found [here](http://insideairbnb.com/get-the-data.html)
